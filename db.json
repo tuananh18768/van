@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "name": "Đỗ Thị Hồng Vân 1",
+      "image": "https://cdn.boxhoidap.com/r_choi-game-7-vien-ngoc-rong-mien-phi--fc04a0023f7d4af3b5a0dd94906aa21d.wepb",
+      "price": "1",
+      "type": "dm2",
+      "id": 18
+    },
+    {
+      "image": "https://1.bp.blogspot.com/-RoOiYu8pweY/YGLZiX0bQ_I/AAAAAAAArE4/4AUbslYlESME_-arrxmvha763Te_jh1kwCNcBGAsYHQ/s0/ff99e81f59e3a9c02ff4f799f35cfc90.jpeg",
+      "name": "Đỗ Thị Hồng Vân 3",
+      "price": "1",
+      "type": "dm4",
+      "id": 19
+    },
+    {
+      "name": "Bach Tai",
+      "image": "https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/25/hzx0kc8v_1920x1080-dragonball.jpg",
+      "price": "400",
+      "type": "dm2",
+      "id": 20
+    },
+    {
+      "name": "Van bao",
+      "image": "https://kenh14cdn.com/2020/10/4/photo-1-1601813372017758166996.jpg",
+      "price": "400",
+      "type": "dm2",
+      "id": 21
+    },
+    {
+      "name": "A tung la ddaay",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLRkY5n3Hd-EXXEpeUPp4INtDJTT_awisaAOhndN1g=s900-c-k-c0x00ffffff-no-rj",
+      "price": "1000000",
+      "type": "dm5",
+      "id": 22
+    }
+  ],
+  "News": [
+    {
+      "image": "https://kenh14cdn.com/2020/10/4/photo-1-1601813372017758166996.jpg",
+      "name": "news1",
+      "content": "Refined Soft Car",
+      "id": "17"
+    },
+    {
+      "image": "https://jes.edu.vn/wp-content/uploads/2019/05/68184730.jpg",
+      "name": "news2",
+      "content": "đấ",
+      "id": "19"
+    },
+    {
+      "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+      "name": "news3",
+      "content": "sđfs",
+      "id": "21"
+    },
+    {
+      "image": "https://yt3.ggpht.com/ytc/AKedOLRkY5n3Hd-EXXEpeUPp4INtDJTT_awisaAOhndN1g=s900-c-k-c0x00ffffff-no-rj",
+      "name": "news4",
+      "content": "jkszhvnkjszgnvjmsbs jv",
+      "id": "22"
+    },
+    {
+      "name": "Bach Tai",
+      "image": "https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/25/hzx0kc8v_1920x1080-dragonball.jpg",
+      "content": "heello ae nha",
+      "id": 23
+    }
+  ],
+  "categorys": [
+    {
+      "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+      "name": "dm1",
+      "id": "1"
+    },
+    {
+      "image": "https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png",
+      "name": "dm2",
+      "id": "2"
+    },
+    {
+      "image": "https://yt3.ggpht.com/ytc/AKedOLRkY5n3Hd-EXXEpeUPp4INtDJTT_awisaAOhndN1g=s900-c-k-c0x00ffffff-no-rj",
+      "name": "dm3",
+      "id": "3"
+    },
+    {
+      "name": "dm4",
+      "image": "https://icdn.dantri.com.vn/thumb_w/660/2021/09/08/316784x441-1631079051594.jpg",
+      "id": 4
+    },
+    {
+      "name": "dm5",
+      "image": "https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/02/25/hzx0kc8v_1920x1080-dragonball.jpg",
+      "id": 5
+    }
+  ]
+}
